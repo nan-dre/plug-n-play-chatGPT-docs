@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Symbol")(type "KiCad")(uri "${KIPRJMOD}/Symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "Display")(type "KiCad")(uri "${KIPRJMOD}/Display.kicad_sym")(options "")(descr ""))
+  (lib (name "OKY3404")(type "KiCad")(uri "${KIPRJMOD}/OKY3404.kicad_sym")(options "")(descr ""))
+)
